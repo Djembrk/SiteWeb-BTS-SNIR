@@ -1,0 +1,107 @@
+body{
+    background-image: url('exemples images/fondbois.jpeg');
+    background-size: 100%;
+}
+
+.boxheader{
+    display:flex;
+    background-color: rgba(1, 184, 16, 0.3);
+    justify-content: center;
+    flex-direction: column;
+}
+.subboxheader1{
+    /*background-color: aqua;*/
+    text-align: center;
+}
+.subboxheader2{
+    /*background-color: blueviolet;*/
+    font-size: 20px;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    word-spacing: 100px;
+    
+}
+
+
+.header{
+    flex-direction: row;
+
+}
+.center{
+    text-align: center;
+}
+.boxfooter{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgba(56, 28, 28, 0.3);
+
+}
+.box1{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: auto;
+    /*background-color: chartreuse;*/
+
+}
+.box2{
+    /*background-color: cornflowerblue;*/
+    height: 100%;
+    width: 42.5%;
+    margin-left: 5%;
+}
+.box3{
+    /*background-color: crimson;*/
+    height: 100%;
+    width: 42.5%;
+    margin-left: 5%;
+    
+}
+h1{
+    color: rgb(0, 200, 0);
+    font-family: Calibri, Verdana, Arial, sans-serif;
+}
+p{
+    font-size: 20px;
+    color: lightgreen;
+    font-family: Calibri, Verdana, Arial, sans-serif;
+}
+li{
+    text-align: center;
+    color: lightgreen;
+    font-family: Calibri, Verdana, Arial, sans-serif;
+}
+p{
+    text-align: center;
+    color: lightgreen;
+    font-family: Calibri, Verdana, Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    color: rgb(0, 200, 0);
+    font-family: Calibri, Verdana, Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: lightgreen;
+    font-family: Calibri, Verdana, Arial, sans-serif;
+}
+.space{
+    word-spacing: 100px;
+}
+.photocamion{
+    margin-top: 5%;
+    width: 100%;
+    height: 60%;
+}
+.photobois{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    width: 80%;
+    height: 60%;
+    margin-left: 10%;
+}
