@@ -1,7 +1,7 @@
 <h1> Projet Site Web BTS SNIR </h1>
 
 <h2> Description du Projet </h2>
-Dans le caddre de ma 1 er année de BTS j'ai du réaliser avec un camarade un site web d'achat de bois avec plusieurs pages ( accueil , tarif et formulaire de contact) 
+Dans le caddre de ma 1 er année de BTS j'ai du réaliser avec un camarade (@Skoelh) un site web d'achat de bois avec plusieurs pages ( accueil , tarif et formulaire de contact) 
 . 
 
 <h2> Langages utilisés </h2>
